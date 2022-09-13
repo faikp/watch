@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     background: #ecf0f3;
-    min-height: 100vh;
+    height: 100vh;
 }
 .container{
     width: 500px;
